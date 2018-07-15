@@ -1,0 +1,18 @@
+/* srcery_css.css */
+
+srcery.black { color: rgb(28, 27, 25) }
+srcery.red { color: rgb(239, 47, 39) }
+srcery.green { color: rgb(81, 159, 80) }
+srcery.yellow { color: rgb(251, 184, 41) }
+srcery.blue { color: rgb(44, 120, 191) }
+srcery.magenta { color: rgb(224, 44, 109) }
+srcery.cyan { color: rgb(10, 174, 179) }
+srcery.white { color: rgb(145, 129, 117) }
+srcery.brightblack { color: rgb(45, 44, 41) }
+srcery.brightred { color: rgb(247, 83, 65) }
+srcery.brightgreen { color: rgb(152, 188, 55) }
+srcery.brightyellow { color: rgb(254, 208, 110) }
+srcery.brightblue { color: rgb(104, 168, 228) }
+srcery.brightmagenta { color: rgb(255, 92, 143) }
+srcery.brightcyan { color: rgb(83, 253, 233) }
+srcery.brightwhite { color: rgb(252, 232, 195) }

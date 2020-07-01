@@ -33,14 +33,14 @@
                   :hsl  [182, 89, 37]
                   :name "cyan"
                   :code 6}
- :white          {:hex  "#918175"
-                  :rgb  [145, 129, 117]
-                  :hsl  [26, 11, 51]
+ :white          {:hex  "#D0BFA1"
+                  :rgb  [208, 191, 1]
+                  :hsl  [38, 33, 72]
                   :name "white"
                   :code 7 }
- :bright-black   {:hex  "#2D2C29"
-                  :rgb  [45,  44,  41]
-                  :hsl  [45, 5, 17]
+ :bright-black   {:hex  "#918175"
+                  :rgb  [145, 129, 117]
+                  :hsl  [26, 11, 51]
                   :name "brightblack"
                   :code 8}
  :bright-red     {:hex  "#F75341"

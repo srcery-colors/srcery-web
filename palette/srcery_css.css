@@ -1,0 +1,77 @@
+/* srcery_css.css */
+
+srcery.black {
+  color: rgb(28, 27, 25);
+}
+srcery.red {
+  color: rgb(239, 47, 39);
+}
+srcery.green {
+  color: rgb(81, 159, 80);
+}
+srcery.yellow {
+  color: rgb(251, 184, 41);
+}
+srcery.blue {
+  color: rgb(44, 120, 191);
+}
+srcery.magenta {
+  color: rgb(224, 44, 109);
+}
+srcery.cyan {
+  color: rgb(10, 174, 179);
+}
+srcery.white {
+  color: rgb(208, 191, 161);
+}
+srcery.brightblack {
+  color: rgb(145, 129, 117);
+}
+srcery.brightred {
+  color: rgb(247, 83, 65);
+}
+srcery.brightgreen {
+  color: rgb(152, 188, 55);
+}
+srcery.brightyellow {
+  color: rgb(254, 208, 110);
+}
+srcery.brightblue {
+  color: rgb(104, 168, 228);
+}
+srcery.brightmagenta {
+  color: rgb(255, 92, 143);
+}
+srcery.brightcyan {
+  color: rgb(83, 253, 233);
+}
+srcery.brightwhite {
+  color: rgb(252, 232, 195);
+}
+srcery.orange {
+  color: rgb(215, 95, 0);
+}
+srcery.brightorange {
+  color: rgb(255, 135, 0);
+}
+srcery.hard_black {
+  color: rgb(18, 18, 18);
+}
+srcery.xgray1 {
+  color: rgb(38, 38, 38);
+}
+srcery.xgray2 {
+  color: rgb(48, 48, 48);
+}
+srcery.xgray3 {
+  color: rgb(58, 58, 58);
+}
+srcery.xgray4 {
+  color: rgb(68, 68, 68);
+}
+srcery.xgray5 {
+  color: rgb(78, 78, 78);
+}
+srcery.xgray6 {
+  color: rgb(88, 88, 88);
+}

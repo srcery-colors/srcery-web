@@ -5,8 +5,8 @@
 @homepageURL https://github.com/srcery-colors/srcery-web
 @updateURL   https://raw.githubusercontent.com/srcery-colors/srcery-web/master/userstyles/hackernews.user.css
 @license     MIT License
-*/
 
+==/UserStyle== */
 @-moz-document domain("news.ycombinator.com") {
   :root {
     --srcery-black: rgb(28, 27, 25);

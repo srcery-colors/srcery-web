@@ -48,6 +48,10 @@
     color: var(--srcery-bright_white);
   }
 
+  a:visited {
+    color: var(--srcery-white);
+  }
+
   .title {
     font-size: 0.9rem;
   }

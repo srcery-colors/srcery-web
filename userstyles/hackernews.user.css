@@ -38,6 +38,7 @@
 
   body {
     background-color: var(--srcery-black);
+    color: var(--srcery-bright_black);
   }
 
   .default,
@@ -50,6 +51,11 @@
 
   a:visited {
     color: var(--srcery-white);
+  }
+
+  .comhead a:link,
+  td {
+    color: var(--srcery-bright_black);
   }
 
   .title {

@@ -1,0 +1,124 @@
+/* ==UserStyle==
+@name        Hacker News - Srcery
+@namespace   Srcery
+@version     1.0.2
+@homepageURL https://github.com/srcery-colors/srcery-web
+@updateURL   https://raw.githubusercontent.com/srcery-colors/srcery-web/master/userstyles/hackernews.user.css
+@license     MIT License
+
+==/UserStyle== */
+@-moz-document domain("news.ycombinator.com") {
+  :root {
+    --srcery-black: rgb(28, 27, 25);
+    --srcery-red: rgb(239, 47, 39);
+    --srcery-green: rgb(81, 159, 80);
+    --srcery-yellow: rgb(251, 184, 41);
+    --srcery-blue: rgb(44, 120, 191);
+    --srcery-magenta: rgb(224, 44, 109);
+    --srcery-cyan: rgb(10, 174, 179);
+    --srcery-white: rgb(208, 191, 161);
+    --srcery-bright_black: rgb(145, 129, 117);
+    --srcery-bright_red: rgb(247, 83, 65);
+    --srcery-bright_green: rgb(152, 188, 55);
+    --srcery-bright_yellow: rgb(254, 208, 110);
+    --srcery-bright_blue: rgb(104, 168, 228);
+    --srcery-bright_magenta: rgb(255, 92, 143);
+    --srcery-bright_cyan: rgb(83, 253, 233);
+    --srcery-bright_white: rgb(252, 232, 195);
+    --srcery-orange: rgb(215, 95, 0);
+    --srcery-bright_orange: rgb(255, 135, 0);
+    --srcery-hard_black: rgb(18, 18, 18);
+    --srcery-xgray1: rgb(38, 38, 38);
+    --srcery-xgray2: rgb(48, 48, 48);
+    --srcery-xgray3: rgb(58, 58, 58);
+    --srcery-xgray4: rgb(68, 68, 68);
+    --srcery-xgray5: rgb(78, 78, 78);
+    --srcery-xgray6: rgb(88, 88, 88);
+  }
+
+  body {
+    background-color: var(--srcery-black);
+    color: var(--srcery-bright_black);
+  }
+
+  .default,
+  .title,
+  a:link,
+  .commtext,
+  .c00 a:link {
+    color: var(--srcery-bright_white);
+  }
+
+  a:visited {
+    color: var(--srcery-white);
+  }
+
+  .comhead a:link,
+  td {
+    color: var(--srcery-bright_black);
+  }
+
+  .title {
+    font-size: 0.9rem;
+  }
+
+  #hnmain > tbody > tr:first-of-type > td > table[style] {
+    padding: 0.25rem !important;
+  }
+
+  table#hnmain {
+    background-color: var(--srcery-xgray1);
+    max-width: 72rem;
+    padding: 0.5rem;
+  }
+
+  table.itemlist {
+    /*display: block;*/
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .comment {
+    text-align: justify;
+  }
+
+  table#hnmain tr#pagespace {
+    height: 1rem !important;
+  }
+
+  table#hnmain > tbody > tr:first-of-type td:first-of-type {
+    color: var(--srcery-green);
+    background-color: var(--srcery-orange);
+  }
+
+  .fatitem textarea {
+    width: 100%;
+    background-color: var(--srcery-black);
+    color: var(--srcery-bright_white);
+  }
+
+  .pagetop a,
+  .pagetop a:visited {
+    color: var(--srcery-black);
+  }
+
+  span.yclinks a {
+    color: var(--srcery-white);
+  }
+
+  table#hnmain > tbody > tr:last-of-type td center form {
+    color: var(--srcery-bright_black);
+  }
+
+  tr.athing td.votelinks {
+    /*padding: 0 3px;*/
+    width: 1rem;
+  }
+
+  td.subtext,
+  td.subtext a[href],
+  span.sitestr {
+    color: var(--srcery-bright_black);
+    font-size: 0.6rem;
+  }
+}

@@ -22,7 +22,7 @@ srcery.cyan {
   color: rgb(10, 174, 179);
 }
 srcery.white {
-  color: rgb(208, 191, 161);
+  color: rgb(186, 166, 127);
 }
 srcery.brightblack {
   color: rgb(145, 129, 117);
@@ -43,13 +43,13 @@ srcery.brightmagenta {
   color: rgb(255, 92, 143);
 }
 srcery.brightcyan {
-  color: rgb(83, 253, 233);
+  color: rgb(43, 228, 208);
 }
 srcery.brightwhite {
   color: rgb(252, 232, 195);
 }
 srcery.orange {
-  color: rgb(215, 95, 0);
+  color: rgb(255, 95, 0);
 }
 srcery.brightorange {
   color: rgb(255, 135, 0);

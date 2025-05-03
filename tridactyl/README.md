@@ -1,8 +1,8 @@
 Tridactyl theme
 =============
 
-![](../assets/tridactyl_tabs.png)
-![](../assets/tridactyl_hint.png)
+![](https://raw.githubusercontent.com/srcery-colors/srcery-assets/refs/heads/master/web/tridactyl_tabs.png)
+![](https://raw.githubusercontent.com/srcery-colors/srcery-assets/refs/heads/master/web/tridactyl_hint.png)
 
 ## Installation
 

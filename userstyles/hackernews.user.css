@@ -9,7 +9,7 @@
 ==/UserStyle== */
 @-moz-document domain("news.ycombinator.com") {
   :root {
-    --srcery-black: rgb(28, 27, 25);
+    --srcery-black: rgb(18, 17, 16);
     --srcery-red: rgb(239, 47, 39);
     --srcery-green: rgb(81, 159, 80);
     --srcery-yellow: rgb(251, 184, 41);
@@ -17,7 +17,7 @@
     --srcery-magenta: rgb(224, 44, 109);
     --srcery-cyan: rgb(10, 174, 179);
     --srcery-white: rgb(208, 191, 161);
-    --srcery-bright_black: rgb(145, 129, 117);
+    --srcery-bright_black: rgb(145, 126, 107);
     --srcery-bright_red: rgb(247, 83, 65);
     --srcery-bright_green: rgb(152, 188, 55);
     --srcery-bright_yellow: rgb(254, 208, 110);
@@ -27,13 +27,13 @@
     --srcery-bright_white: rgb(252, 232, 195);
     --srcery-orange: rgb(215, 95, 0);
     --srcery-bright_orange: rgb(255, 135, 0);
-    --srcery-hard_black: rgb(18, 18, 18);
-    --srcery-xgray1: rgb(38, 38, 38);
-    --srcery-xgray2: rgb(48, 48, 48);
-    --srcery-xgray3: rgb(58, 58, 58);
-    --srcery-xgray4: rgb(68, 68, 68);
-    --srcery-xgray5: rgb(78, 78, 78);
-    --srcery-xgray6: rgb(88, 88, 88);
+    --srcery-hard_black: rgb(14, 13, 12);
+    --srcery-xgray1: rgb(18, 17, 16);
+    --srcery-xgray2: rgb(38, 37, 34);
+    --srcery-xgray3: rgb(49, 47, 44);
+    --srcery-xgray4: rgb(59, 57, 53);
+    --srcery-xgray5: rgb(69, 67, 62);
+    --srcery-xgray6: rgb(80, 77, 71);
   }
 
   body {

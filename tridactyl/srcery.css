@@ -1,6 +1,6 @@
 :root.TridactylThemeSrcery {
-  --srcery-black: #1C1B19;
-  --srcery-bright-black: #918175;
+  --srcery-black: #121110;
+  --srcery-bright-black: #917e6b;
   --srcery-red: #EF2F27;
   --srcery-bright-red: #F75341;
   --srcery-green: #519F50;
@@ -17,12 +17,12 @@
   --srcery-bright-white: #FCE8C3;
   --srcery-orange: #D75F00;
   --srcery-bright-orange: #FF8700;
-  --srcery-hard-black: #121212;
-  --srcery-xgray1: #262626;
-  --srcery-xgray2: #303030;
-  --srcery-xgray3: #3A3A3A;
-  --srcery-xgray4: #444444;
-  --srcery-xgray5: #4E4E4E;
+  --srcery-hard-black: #0e0d0c;
+  --srcery-xgray1: #121110;
+  --srcery-xgray2: #262522;
+  --srcery-xgray3: #312F2C;
+  --srcery-xgray4: #3b3935;
+  --srcery-xgray5: #45433E;
 
   --tridactyl-bg: var(--srcery-black);
   --tridactyl-fg: var(--srcery-bright-white);

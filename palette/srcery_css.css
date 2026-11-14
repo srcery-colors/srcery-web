@@ -1,7 +1,7 @@
 /* srcery_css.css */
 
 srcery.black {
-  color: rgb(28, 27, 25);
+  color: rgb(18, 17, 16);
 }
 srcery.red {
   color: rgb(239, 47, 39);
@@ -22,10 +22,10 @@ srcery.cyan {
   color: rgb(10, 174, 179);
 }
 srcery.white {
-  color: rgb(186, 166, 127);
+  color: rgb(197, 176, 136);
 }
 srcery.brightblack {
-  color: rgb(145, 129, 117);
+  color: rgb(145, 126, 107);
 }
 srcery.brightred {
   color: rgb(247, 83, 65);
@@ -55,23 +55,23 @@ srcery.brightorange {
   color: rgb(255, 135, 0);
 }
 srcery.hard_black {
-  color: rgb(18, 18, 18);
+  color: rgb(14, 13, 12);
 }
 srcery.xgray1 {
-  color: rgb(38, 38, 38);
+  color: rgb(18, 17, 16);
 }
 srcery.xgray2 {
-  color: rgb(48, 48, 48);
+  color: rgb(38, 37, 34);
 }
 srcery.xgray3 {
-  color: rgb(58, 58, 58);
+  color: rgb(49, 47, 44);
 }
 srcery.xgray4 {
-  color: rgb(68, 68, 68);
+  color: rgb(59, 57, 53);
 }
 srcery.xgray5 {
-  color: rgb(78, 78, 78);
+  color: rgb(69, 67, 62);
 }
 srcery.xgray6 {
-  color: rgb(88, 88, 88);
+  color: rgb(80, 77, 71);
 }

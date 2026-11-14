@@ -20,7 +20,7 @@ module.exports = {
           },
           white: {
             bright: 'rgb(252, 232, 195)',
-            DEFAULT: 'rgb(208, 191, 161)',
+            DEFAULT: 'rgb(197, 176, 136)',
           },
           gray: {
             1: 'rgb(80, 77, 71)',
@@ -30,28 +30,36 @@ module.exports = {
             5: 'rgb(38, 37, 34)',
             6: 'rgb(28, 27, 25)',
           },
+          teal: {
+            DEFAULT: 'rgb(0, 128, 128)',
+          },
           red: {
             bright: 'rgb(247, 83, 65)',
             DEFAULT: 'rgb(239, 47, 39)',
+            dark: 'rgb(79, 35, 33)',
           },
           orange: {
             bright: 'rgb(255, 135, 0)',
-            DEFAULT: 'rgb(215, 95, 0)',
+            DEFAULT: 'rgb(255, 95, 0)',
           },
           yellow: {
             bright: 'rgb(254, 208, 110)',
             DEFAULT: 'rgb(251, 184, 41)',
+            dark: 'rgb(67, 53, 25)',
           },
           green: {
             bright: 'rgb(152, 188, 55)',
             DEFAULT: 'rgb(81, 159, 80)',
+            dim: 'rgb(46, 92, 46)',
+            dark: 'rgb(41, 66, 41)',
           },
           blue: {
             bright: 'rgb(104, 168, 228)',
             DEFAULT: 'rgb(44, 120, 191)',
+            dark: 'rgb(30, 81, 129)',
           },
           cyan: {
-            bright: 'rgb(83, 253, 233)',
+            bright: 'rgb(43, 228, 208)',
             DEFAULT: 'rgb(10, 174, 179)',
           },
           magenta: {

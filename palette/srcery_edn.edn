@@ -33,9 +33,9 @@
                   :hsl  [182, 89, 37]
                   :name "cyan"
                   :code 6}
- :white          {:hex  "#D0BFA1"
-                  :rgb  [208, 191, 1]
-                  :hsl  [38, 33, 72]
+ :white          {:hex  "#C5B088"
+                  :rgb  [197, 176, 136]
+                  :hsl  [39, 34, 65]
                   :name "white"
                   :code 7 }
  :bright-black   {:hex  "#917e6b"
@@ -68,9 +68,9 @@
                   :hsl  [341, 100, 68]
                   :name "brightmagenta"
                   :code 13}
- :bright-cyan    {:hex  "#53FDE9"
-                  :rgb  [83, 253, 233]
-                  :hsl  [173, 98, 66]
+ :bright-cyan    {:hex  "#2BE4D0"
+                  :rgb  [43, 228, 208]
+                  :hsl  [174, 77, 53]
                   :name "brightcyan"
                   :code 14}
  :bright-white   {:hex  "#FCE8C3"
@@ -78,9 +78,9 @@
                   :hsl  [39, 90, 88]
                   :name "brightwhite"
                   :code 15}
- :orange         {:hex  "#D75F00"
-                  :rgb  [215, 95, 0]
-                  :hsl  [27, 100, 42]
+ :orange         {:hex  "#FF5F00"
+                  :rgb  [255, 95, 0]
+                  :hsl  [22, 100, 50]
                   :name nil
                   :code 166}
  :bright-orange  {:hex  "#FF8700"
@@ -88,6 +88,36 @@
                   :hsl  [32, 100, 50]
                   :name nil
                   :code 208}
+ :dark-green     {:hex  "#294229"
+                  :rgb  [41, 66, 41]
+                  :hsl  [120, 23, 21]
+                  :name nil
+                  :code 22}
+ :dark-red       {:hex  "#4F2321"
+                  :rgb  [79, 35, 33]
+                  :hsl  [3, 41, 22]
+                  :name nil
+                  :code 88}
+ :dark-blue      {:hex  "#1E5181"
+                  :rgb  [30, 81, 129]
+                  :hsl  [209, 62, 31]
+                  :name nil
+                  :code 24}
+ :dark-yellow    {:hex  "#433519"
+                  :rgb  [67, 53, 25]
+                  :hsl  [40, 46, 18]
+                  :name nil
+                  :code 94}
+ :dim-green      {:hex  "#2E5C2E"
+                  :rgb  [46, 92, 46]
+                  :hsl  [119, 33, 27]
+                  :name nil
+                  :code 28}
+ :teal           {:hex  "#008080"
+                  :rgb  [0, 128, 128]
+                  :hsl  [180, 100, 25]
+                  :name nil
+                  :code 30}
  :hard-black     {:hex  "#0e0d0c"
                   :rgb  [14, 13, 12]
                   :hsl  [30, 5, 5]
@@ -117,4 +147,9 @@
                   :rgb  [69, 67, 62]
                   :hsl  [43, 5, 26]
                   :name nil
-                  :code 239}}
+                  :code 239}
+ :xgray6         {:hex  "#504D47"
+                  :rgb  [80, 77, 71]
+                  :hsl  [40, 6, 30]
+                  :name nil
+                  :code 240}}

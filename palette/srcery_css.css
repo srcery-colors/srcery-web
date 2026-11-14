@@ -54,6 +54,24 @@ srcery.orange {
 srcery.brightorange {
   color: rgb(255, 135, 0);
 }
+srcery.dark_green {
+  color: rgb(41, 66, 41);
+}
+srcery.dark_red {
+  color: rgb(79, 35, 33);
+}
+srcery.dark_blue {
+  color: rgb(30, 81, 129);
+}
+srcery.dark_yellow {
+  color: rgb(67, 53, 25);
+}
+srcery.dim_green {
+  color: rgb(46, 92, 46);
+}
+srcery.teal {
+  color: rgb(0, 128, 128);
+}
 srcery.hard_black {
   color: rgb(14, 13, 12);
 }

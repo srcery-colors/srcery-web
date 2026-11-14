@@ -23,7 +23,7 @@ let colors = {
   orange: "#D75F00",
   brorange: "#FF8700",
   hard_black: "#0e0d0c",
-  xgray1: "#121110",
+  xgray1: "#1c1b19",
   xgray2: "#262522",
   xgray3: "#312F2C",
   xgray4: "#3b3935",

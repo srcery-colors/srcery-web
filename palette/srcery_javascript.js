@@ -28,7 +28,7 @@ let colors = {
   xgray3: "#312F2C",
   xgray4: "#3b3935",
   xgray5: "#45433E",
-  xgray5: "#504d47",
+  xgray6: "#504d47",
 };
 
 // }}}

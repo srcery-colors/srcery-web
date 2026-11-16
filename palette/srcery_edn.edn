@@ -38,7 +38,7 @@
                   :hsl  [39, 34, 65]
                   :name "white"
                   :code 7 }
- :bright-black   {:hex  "#917e6b"
+ :bright-black   {:hex  "#917E6B"
                   :rgb  [145, 126, 107]
                   :hsl  [30, 15, 49]
                   :name "brightblack"
@@ -118,12 +118,12 @@
                   :hsl  [180, 100, 25]
                   :name nil
                   :code 30}
- :hard-black     {:hex  "#0e0d0c"
+ :hard-black     {:hex  "#0E0D0C"
                   :rgb  [14, 13, 12]
                   :hsl  [30, 5, 5]
                   :name nil
                   :code 232}
- :xgray1         {:hex  "#1c1b19"
+ :xgray1         {:hex  "#1C1B19"
                   :rgb  [28, 27, 25]
                   :hsl  [40, 6, 10]
                   :name "gray15"
@@ -138,7 +138,7 @@
                   :hsl  [36, 5, 18]
                   :name nil
                   :code 237}
- :xgray4         {:hex  "#3b3935"
+ :xgray4         {:hex  "#3B3935"
                   :rgb  [59, 57, 53]
                   :hsl  [40, 5, 22]
                   :name nil
